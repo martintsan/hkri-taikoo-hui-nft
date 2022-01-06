@@ -1,0 +1,23 @@
+{
+  "name": "hkri-taikoo-hui-nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.2.3"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
+    "@openzeppelin/contracts": "^4.0.0",
+    "dotenv": "^10.0.0",
+    "logrocket": "^2.1.3"
+  }
+}
